@@ -12,8 +12,8 @@ Project structure: First, I will show the historical average food insecurity rat
 The data sources mentioned above could be used to draw charts. They solidly back up my topic and provide evidence.
 ## Method and medium
 My plan has four steps:
-1. Conceive my story. (It has been introduced in the outline)
-2. Collect all the data needed and record the sources clearly. 
-3. Use these data to draw various charts following my storyline and write a few sentence to describe each chart.
-4. Create a story map using Esri Story Maps. Put all the charts into the map and adjust the animation, size, color etc.
+a. Conceive my story. (It has been introduced in the outline)
+b. Collect all the data needed and record the sources clearly. 
+c. Use these data to draw various charts following my storyline and write a few sentence to describe each chart.
+d. Create a story map using Esri Story Maps. Put all the charts into the map and adjust the animation, size, color etc.
 Plus: If it is necessary, I might insert a short video into my story map, making my whole story more vivid.
