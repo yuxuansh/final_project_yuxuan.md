@@ -5,3 +5,15 @@ Project structure: First, I will show the historical average food insecurity rat
 ## Initial sketches
 ![IMG_C756C11C1892-1](https://user-images.githubusercontent.com/89853804/134916018-1b9f08e2-2c58-40f0-b753-a100b0b5766c.jpeg)
 ## The data
+1. I will use the data on the website of U.S. DEPARTMENT OF AGRICULTURE (https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/). It not only provides the data and statistics about food insecurity for different races but also shows a list of assistance programs. 
+2. Move For Hunger is a organization that help people who are struggling in food shortage. It also provides plenty of data regarding races inequality on this issue (https://moveforhunger.org/hunger-racial-equity-issue).
+3. The other organization called Breadfortheworld also provides insights about this issue (https://www.bread.org/library/racially-equitable-responses-hunger-during-covid-19-and-beyond).
+4. Besides, there are also useful data from various research centers, for example, Food Research & Action Center
+The data sources mentioned above could be used to draw charts. They solidly back up my topic and provide evidence.
+## Method and medium
+My plan has four steps:
+1. Conceive my story. (It has been introduced in the outline)
+2. Collect all the data needed and record the sources clearly. 
+3. Use these data to draw various charts following my storyline and write a few sentence to describe each chart.
+4. Create a story map using Esri Story Maps. Put all the charts into the map and adjust the animation, size, color etc.
+Plus: If it is necessary, I might insert a short video into my story map, making my whole story more vivid.
